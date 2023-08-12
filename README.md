@@ -25,7 +25,7 @@
 
 ## Getting Started
 
-1. Clone this repository: `git clone https://github.com/imalisusan/dawit`
+1. Clone this repository: `git clone https://github.com/imalisusan/dawit-interview`
 2. Navigate to the project directory: `cd dawit`
 3. Install dependencies: `npm install`
 4. Start the server: `node ./bin/www`

@@ -17,11 +17,6 @@
 - `controllers/dataController.js`: Handles data fetching logic from a public API.
 - `routes/api.js`: Defines API routes for data retrieval.
 - `server.js`: Sets up the Express server and serves the web page.
-
-### Additional Improvements
-- The project structure has been organized for maintainability.
-- Styling has been added to enhance the appearance of fetched data using styled cards.
-
 ## Solutions Implemented
 
 - The web application fetches data from the JSONPlaceholder API using asynchronous HTTP requests.
